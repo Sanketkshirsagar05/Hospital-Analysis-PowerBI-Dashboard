@@ -2,6 +2,8 @@
 
 This repository contains a comprehensive **Hospital Analysis Dashboard** built using **Power BI**. The dashboard provides deep insights into hospital operations, covering patient data, doctor performance, hospital capacity, and financial metrics.
 
+👉 **[Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg0YTUyZWQtNmIzZS00MTgxLTgzMjUtNzk5ZjlkNGRmYTUxIiwidCI6IjIxZGEzZTE2LTU2NjgtNDNhYy04MThmLTBjYzU4YzVlZmFmNCJ9&pageName=fab432ac7b15019a2351)**  
+
 ## 📊 Dashboard Overview
 
 The dashboard is divided into **6 pages**, each focusing on different aspects of the hospital's performance:
